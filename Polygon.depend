@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1565988189 source:d:\users\ucastro.yv\desktop\c++\polygon\main.cpp
+	<iostream>
+	"fstream"
+	"Polygon.h"
+
+1565985250 source:d:\users\ucastro.yv\desktop\c++\polygon\src\polygon.cpp
+	"Polygon.h"
+
+1565983412 d:\users\ucastro.yv\desktop\c++\polygon\include\polygon.h
+	<vector>
+	<math.h>
+
